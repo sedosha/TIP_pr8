@@ -143,7 +143,30 @@ func getMongoURI() string {
 <img width="734" height="171" alt="image" src="https://github.com/user-attachments/assets/cb98acc8-f03e-42b2-a2ff-876410b68d2a" />
 
 ### Выполненная «звёздочка»
+- Поиск по слову
+- <img width="1280" height="515" alt="image" src="https://github.com/user-attachments/assets/757313eb-49d6-40cb-8f8f-60003c3a76f4" />
 
+- Первая страница (2 заметки)
+- <img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/b0110441-5bf2-4a69-b7c6-a472236e3876" />
+
+- Вторая страница (курсорная пагинация)
+- <img width="1280" height="647" alt="image" src="https://github.com/user-attachments/assets/76e20d46-4399-4020-8f71-766d727da51e" />
+
+- Получение статистики
+- <img width="1280" height="389" alt="image" src="https://github.com/user-attachments/assets/a0240052-0bd7-4c82-8d42-49dee028d4a7" />
+
+- Тестирование TTL-индекса
+- <img width="1399" height="645" alt="image" src="https://github.com/user-attachments/assets/ba4a8500-4a58-47cb-a92f-35aca24f4124" />
+- <img width="1280" height="709" alt="image" src="https://github.com/user-attachments/assets/dcd0176f-c0e5-4ba8-80b2-c271795b6c3a" />
+- <img width="1280" height="484" alt="image" src="https://github.com/user-attachments/assets/699a4e77-7d1e-4d82-aaf6-e1365813e129" />
+
+
+### Ссылки для проверки
+-
+-
+-
+-
+-
 
 ### Контрольные вопросы
 

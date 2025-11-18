@@ -1,0 +1,33 @@
+# Binaries
+app
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Coverage tool
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+
+# Binary directories
+/bin/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# MongoDB data
+data/
